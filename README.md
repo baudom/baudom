@@ -4,8 +4,8 @@
 
 💼 I'm currently in my second year of training as a software developer in the age of 17.
 
-✨ My interests and experience are in Java and a litte in .net.
+✨ My interests and experience are in Java, C#, React Native and Kotlin.
 
-🕛 Until now, I developed smaller applications to improve my experience. Currently i'm working in my spare-time on an web-app to manage expenses.
+🕛 Until now, I developed smaller applications to improve my experience.
 
 ⚡ Fun fact: I dont like coffee
