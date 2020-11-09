@@ -2,7 +2,7 @@
 <br>
 
 
-💼 I'm currently in my second year of training as a software developer in the age of 17.
+💼 I'm currently in my second year of training as a software developer in the age of 18.
 
 ✨ My interests and experience are in Java, C#, React Native and Kotlin.
 
