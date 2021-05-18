@@ -7,11 +7,13 @@ Here are some of my currently Skills and Interrests:
   <tr>
     <td colspan="2">Area</td>
     <td>Language(s) / Technologies</td>
+    <td>Projects (comming soon)</td>
   </tr>
   <tr>
     <td rowspan="3">Frontend</td>
     <td>Web</td>
     <td>React & Angular (Typescript)</td>
+    <td rowspan="3"></td>
   </tr>  
   <tr>
     <td>Mobile</td>
@@ -19,23 +21,27 @@ Here are some of my currently Skills and Interrests:
   </tr> 
   <tr>
     <td>Styling</td>
-    <td colspan="2">CSS, Less</td>
+    <td>CSS, Less</td>
   </tr>
   <tr>
     <td colspan="2">Backend</td>
     <td>Java Spring, Express.js (Typescript)</td>
+    <td></td>
   </tr>
   <tr>
     <td colspan="2">DBMS</td>
     <td>MySQL, Mongoose, Dexie.js</td>
+    <td></td>
   </tr>
   <tr>
     <td colspan="2">Testing</td>
     <td>JUnit, Mockito</td>
+    <td></td>
   </tr>
   <tr>
     <td colspan="2">Less experienced</td>
     <td>C#, Kotlin, Angular</td>
+    <td></td>
   </tr>
 </table>
 
