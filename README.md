@@ -3,31 +3,42 @@
 💼 I'm Dominik, 18 Years young and in my second year of Apprenticeship as Software Developer.
 
 Here are some of my currently Skills and Interrests:
-- Frontend
-  - Mobile
-    - React Native
-  - Web
-    - React
-    - HTML, CSS
-- Backend
-  - Java Spring (Web/-Security/-Data JPA, Hibernate)
-  - Node.js Express.js
-- DBMS
-    - Dexie.js (Frontend-used Database)
-    - MongoDB
-    - MySQL
-- Testing and Mocking
-  - JUnit
-  - Mockito
-- Frameworks and Technologies
-  - Typescript
-  - Redux
-  - ...
-- Some other, less experienced languages
-  - C#
-  - Kotlin
-  - Angular
+<table>
+  <tr>
+    <td colspan="2">Area</td>
+    <td>Language(s) / Technologies</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Frontend</td>
+    <td>Web</td>
+    <td>React & Angular (Typescript)</td>
+  </tr>  
+  <tr>
+    <td>Mobile</td>
+    <td>React-Native (Typescript), Kotlin</td>
+  </tr> 
+  <tr>
+    <td>Styling</td>
+    <td colspan="2">CSS, Less</td>
+  </tr>
+  <tr>
+    <td colspan="2">Backend</td>
+    <td>Java Spring, Express.js (Typescript)</td>
+  </tr>
+  <tr>
+    <td colspan="2">DBMS</td>
+    <td>MySQL, Mongoose, Dexie.js</td>
+  </tr>
+  <tr>
+    <td colspan="2">Testing</td>
+    <td>JUnit, Mockito</td>
+  </tr>
+  <tr>
+    <td colspan="2">Less experienced</td>
+    <td>C#, Kotlin, Angular</td>
+  </tr>
+</table>
 
-🕛 Until now, I developed applications to improve my experience (links will soony appear here).
+😋 And yes, I quite like Typescript
 
-⚡ Fun fact: I now like coffee
+🕛 Until now, I developed applications to improve my experience (links will soonly appear here).
