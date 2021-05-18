@@ -1,11 +1,33 @@
-### Whats up bud'? 👋
-<br>
+## Whats up bud'? 👋
 
+💼 I'm Dominik, 18 Years young and in my second year of Apprenticeship as Software Developer.
 
-💼 I'm currently in my second year of training as a software developer in the age of 18.
+Here are some of my currently Skills and Interrests:
+- Frontend
+  - Mobile
+    - React Native
+  - Web
+    - React
+    - HTML, CSS
+- Backend
+  - Java Spring (Web/-Security/-Data JPA, Hibernate)
+  - Node.js Express.js
+- DBMS
+    - Dexie.js (Frontend-used Database)
+    - MongoDB
+    - MySQL
+- Testing and Mocking
+  - JUnit
+  - Mockito
+- Frameworks and Technologies
+  - Typescript
+  - Redux
+  - ...
+- Some other, less experienced languages
+  - C#
+  - Kotlin
+  - Angular
 
-✨ My mainly interests and experience are in Typescript, React, React Native and Java. (smaller experience in Angular, Kotlin and C#)
+🕛 Until now, I developed applications to improve my experience (links will soony appear here).
 
-🕛 Until now, I developed smaller applications to improve my experience.
-
-⚡ Fun fact: I now like coffee (only from discounter lol)
+⚡ Fun fact: I now like coffee
