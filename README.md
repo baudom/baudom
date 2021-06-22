@@ -30,7 +30,7 @@ Here are some of my currently Skills and Interrests:
   </tr>
   <tr>
     <td colspan="2">DBMS</td>
-    <td>MySQL, Mongoose, Dexie.js</td>
+    <td>MySQL, MongoDB, Dexie.js</td>
     <td></td>
   </tr>
   <tr>
