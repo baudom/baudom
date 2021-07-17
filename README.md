@@ -12,7 +12,7 @@ Here are some of my currently Skills and Interrests:
   <tr>
     <td rowspan="3">Frontend</td>
     <td>Web</td>
-    <td>React & Angular (Typescript)</td>
+    <td>React, Angular (Typescript)</td>
     <td rowspan="3"></td>
   </tr>  
   <tr>
