@@ -25,7 +25,7 @@ Here are some of my currently Skills and Interrests:
   </tr>
   <tr>
     <td colspan="2">Backend</td>
-    <td>Java Spring, Express.js (Typescript)</td>
+    <td>C# ASP.Net, Java Spring, Express.js (Typescript)</td>
     <td></td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ Here are some of my currently Skills and Interrests:
   </tr>
   <tr>
     <td colspan="2">Less experienced</td>
-    <td>C#, Kotlin, Angular</td>
+    <td>Kotlin, Angular</td>
     <td></td>
   </tr>
 </table>
