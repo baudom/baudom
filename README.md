@@ -1,6 +1,6 @@
 ## Whats up bud'? 👋
 
-💼 I'm Dominik, 18 Years young and in my second year of Apprenticeship as Software Developer.
+💼 I'm Dominik, 18 Years young and in my third year of Apprenticeship as Software Developer.
 
 Here are some of my currently Skills and Interrests:
 <table>
