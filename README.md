@@ -12,12 +12,12 @@ Here are some of my currently Skills and Interrests:
   <tr>
     <td rowspan="3">Frontend</td>
     <td>Web</td>
-    <td>React, Angular (Typescript)</td>
+    <td>React</td>
     <td rowspan="3"></td>
   </tr>  
   <tr>
     <td>Mobile</td>
-    <td>React-Native (Typescript), Kotlin</td>
+    <td>React-Native, Kotlin</td>
   </tr> 
   <tr>
     <td>Styling</td>
@@ -25,17 +25,17 @@ Here are some of my currently Skills and Interrests:
   </tr>
   <tr>
     <td colspan="2">Backend</td>
-    <td>C# ASP.Net, Java Spring, Express.js (Typescript)</td>
+    <td>C#, Java Spring, Express.js (Typescript)</td>
     <td></td>
   </tr>
   <tr>
     <td colspan="2">DBMS</td>
-    <td>MySQL, MongoDB, Dexie.js</td>
+    <td>MySQL, PostgreSQL, MongoDB, Dexie.js</td>
     <td></td>
   </tr>
   <tr>
     <td colspan="2">Testing</td>
-    <td>JUnit, Mockito</td>
+    <td>JUnit, Mockito, Mocha</td>
     <td></td>
   </tr>
   <tr>
