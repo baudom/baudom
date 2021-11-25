@@ -39,8 +39,13 @@ Here are some of my currently Skills and Interrests:
     <td></td>
   </tr>
   <tr>
+    <td colspan="2">other Technologies</td>
+    <td>Docker</td>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="2">Less experienced</td>
-    <td>Kotlin, Angular</td>
+    <td>Docker, Kotlin, Angular</td>
     <td></td>
   </tr>
 </table>
