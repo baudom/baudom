@@ -35,12 +35,12 @@ Here are some of my currently Skills and Interrests:
   </tr>
   <tr>
     <td colspan="2">Testing</td>
-    <td>JUnit, Mockito, Mocha</td>
+    <td>JUnit, Mockito, Mocha, Gatling (Scala)</td>
     <td></td>
   </tr>
   <tr>
     <td colspan="2">other Technologies</td>
-    <td>Docker</td>
+    <td>Docker, Testcontainers</td>
     <td></td>
   </tr>
   <tr>
