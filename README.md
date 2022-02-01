@@ -50,6 +50,6 @@ Here are some of my currently Skills and Interrests:
   </tr>
 </table>
 
-😋 And yes, I quite like Typescript
+😋 Typescript-Lover and interrested in new Technologies
 
 🕛 Until now, I developed applications to improve my experience (links will soonly appear here).
