@@ -1,55 +1,35 @@
-## Whats up bud'? 👋
+<h3 align="center">Hi! 👋 I'm Dominik</h3>
+<h4 align="center">Junior Software Developer from Augsburg, Germany.</h4>
 
-💼 I'm Dominik, 19 Years young and Junior Software Developer.
+<p align="center">
+    <em>„Probably centering your div“</em> - Me 😉
+</p>
 
-Here are some of my currently Skills and Interrests:
-<table>
-  <tr>
-    <td colspan="2">Area</td>
-    <td>Language(s) / Technologies</td>
-    <td>Projects (comming soon)</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Frontend</td>
-    <td>Web</td>
-    <td>React</td>
-    <td rowspan="3"></td>
-  </tr>  
-  <tr>
-    <td>Mobile</td>
-    <td>React-Native, Kotlin</td>
-  </tr> 
-  <tr>
-    <td>Styling</td>
-    <td>CSS, Less</td>
-  </tr>
-  <tr>
-    <td colspan="2">Backend</td>
-    <td>C#, Java Spring, Express.js (Typescript)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2">DBMS</td>
-    <td>MySQL, PostgreSQL, MongoDB, Dexie.js</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2">Testing</td>
-    <td>JUnit, Mockito, Mocha, Gatling (Scala)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2">other Technologies</td>
-    <td>Docker, Testcontainers</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2">Less experienced</td>
-    <td>Docker, Kotlin, Angular</td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
 
-😋 Typescript-Lover and interrested in new Technologies
+[![Website][badge-website]](https://www.baudom.de)
+[![Wiki][badge-wiki]](https://wiki.baudom.de)
 
-🕛 Until now, I developed applications to improve my experience (links will soonly appear here).
+</div>
+
+## about me
+
+- 👨‍💻 fullstack developer, interested in new technologies 
+- 🤪️ trying to use the keyboard more than the mouse - _I still prefer the IDE, please no vim_
+- 💻 working with windows, mac and linux
+- 🦦 working on smaller projects in my free time
+
+### programming languages
+<img alt="list 1" src="https://skillicons.dev/icons?i=dotnet,cs,java,md,nodejs,js,ts,kotlin,scala,html,css" />
+
+### technologies
+<img alt="list 1" src="https://skillicons.dev/icons?i=azure,heroku,sentry,nginx,bash,docker,firebase,supabase,git,github,githubactions,gitlab,gradle,jest,materialui,react,redux,remix,regex,spring" />
+
+### databases
+<img alt="list 1" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### software
+<img alt="list 1" src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman,linux" />
+
+[badge-website]: https://img.shields.io/website?down_color=orange&down_message=offline&label=website&up_color=green&up_message=online&url=https://www.baudom.de
+[badge-wiki]: https://img.shields.io/website?down_color=orange&down_message=offline&label=wiki&up_color=green&up_message=online&url=https://wiki.baudom.de
