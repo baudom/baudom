@@ -1,5 +1,5 @@
 <h3 align="center">Hi! 👋 I'm Dominik</h3>
-<h4 align="center">Junior Software Developer from Augsburg, Germany.</h4>
+<h4 align="center">Software Developer from Augsburg, Germany.</h4>
 
 <p align="center">
     <em>„Probably centering your div“</em> - Me 😉
