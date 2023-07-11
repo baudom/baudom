@@ -20,7 +20,7 @@
 - 🦦 working on smaller projects in my free time
 
 ### programming languages
-<img alt="list 1" src="https://skillicons.dev/icons?i=dotnet,cs,java,md,nodejs,js,ts,kotlin,scala,html,css" />
+<img alt="list 1" src="https://skillicons.dev/icons?i=dotnet,cs,java,md,nodejs,ts,kotlin,scala,html,css" />
 
 ### technologies
 <img alt="list 1" src="https://skillicons.dev/icons?i=azure,heroku,sentry,nginx,bash,docker,firebase,supabase,git,github,githubactions,gitlab,gradle,jest,materialui,react,redux,remix,regex,spring" />
@@ -31,5 +31,10 @@
 ### software
 <img alt="list 1" src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman,linux" />
 
+---
+
+icons by [tandpfun/skill-icons][icons-repo]
+
+[icons-repo]: https://github.com/tandpfun/skill-icons
 [badge-website]: https://img.shields.io/website?down_color=orange&down_message=offline&label=website&up_color=green&up_message=online&url=https://www.baudom.de
 [badge-wiki]: https://img.shields.io/website?down_color=orange&down_message=offline&label=wiki&up_color=green&up_message=online&url=https://wiki.baudom.de
